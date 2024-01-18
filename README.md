@@ -138,4 +138,4 @@ Model for Hearing Aids <a href="https://github.com/dhimasryan/MOSA-Net-Cross-Dom
 - <a href="https://pypi.org/project/SpeechRecognition/" target="_blank">Google API ASR</a>
 - <a href="https://github.com/openai/whisper" target="_blank">Whisper OpenAI ASR</a>
 
-We also create a <a href="https://github.com/speechassess/opensourceASR" target="_blank">repository</a> on how to use those mentioned ASR systems to generate the transcipt. 
+We also create a <a href="https://github.com/speechassess/opensourceASR" target="_blank">repository</a> on how to use those mentioned ASR systems to generate the transcript. 
